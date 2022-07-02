@@ -1,7 +1,7 @@
 # The-Sparks-Foundation_Task-1_Prediction-Using-Supervised-ML
 
-# The Sparks Foundation
-## Data Science and Business Analytics
+### The Sparks Foundation
+### Data Science and Business Analytics
 ### Task 1: Prediction Using Supervised ML
 
 Steps
