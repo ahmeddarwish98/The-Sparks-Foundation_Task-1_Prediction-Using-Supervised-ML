@@ -16,4 +16,5 @@ Steps
         + Evaluating the model 
 
 
+- YouTube: https://lnkd.in/duvRkhtW
 - A Great Data Science Internship: https://internship.thesparksfoundation.info/
